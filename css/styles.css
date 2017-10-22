@@ -133,6 +133,13 @@ a:visited {
   height: 400px;
 }
 
+#emma-konrad-cover {
+  background-image: url("https://imgur.com/yndrZij")
+}
+
+#emma-konrad-card {
+  background-image: url("https://imgur.com/a/Y5c1S")
+}
 #joe-burgess-card {
  background-image: url("https://learn-verified.s3.amazonaws.com/joe-burgess.jpeg");
 }
